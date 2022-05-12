@@ -1,6 +1,5 @@
 # MERN Memories Client
 
-Learning MERN Stack
 Link to live version: [Memories](https://mern-memories-front.netlify.app/)
 
 ## Available Scripts
